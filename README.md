@@ -1,5 +1,5 @@
 ---
-# 💻 Stack
+# 💻 Frontend Stack
 
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![ts](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -26,7 +26,10 @@
 - 특정 URL 메모저장 웹 확장프로그램 서비스 (2023.01 ~ 2023.06) [InsteadMemory](https://github.com/Instead-Memory/Instead-Memory)
 - PING-PONG게임 및 채팅 웹 서비스 (2023.10 ~ 2023.12) [Tscenping](https://github.com/tscenping)
 
+---
+<br>
+<br>
 
-![Sang yeob's GitHub stats](https://github-readme-stats.vercel.app/api?username=exceed96&show_icons=true&theme=cobalt)
+# 🗂️ Etc
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=exceed_96)](https://solved.ac/exceed_96/)
+![Sang yeob's GitHub stats](https://github-readme-stats.vercel.app/api?username=exceed96&show_icons=true&theme=cobalt)[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=exceed_96)](https://solved.ac/exceed_96/)
