@@ -1,5 +1,5 @@
 ---
-# ⌨️ Stack
+### ⌨️ Stack
 
 
   > ### 💻 Frontend
@@ -18,22 +18,22 @@
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
   ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
   
-# 🚀 Activity
+### 🚀 Activity
 
 - 42Seoul (2022.03.07 ~ ing)
   
-# 📜 Projects
+### 📜 Projects
 
 - 특정 URL 메모저장 웹 확장프로그램 서비스 (2023.01 ~ 2023.06) [InsteadMemory](https://github.com/Instead-Memory/Instead-Memory)
 - PING-PONG게임 및 채팅 웹 서비스 (2023.10 ~ 2023.12) [Tscenping](https://github.com/tscenping)
 
-# 📝 Tech blog
+### 📝 Tech blog
 
 <a href="https://velog.io/@exceed96">
     <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
 </a>
 
-# 🗂️ Etc
+### 🗂️ Etc
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=exceed_96)](https://solved.ac/exceed_96/)
 ---
