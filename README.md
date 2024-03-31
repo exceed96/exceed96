@@ -12,7 +12,7 @@
   ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
   ![SCSS](https://img.shields.io/badge/SCSS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-  ![CSSMODULES](https://img.shields.io/badge/CSS%20Modules-000?logo=cssmodules&logoColor=fff&style=flat-square")
+  ![CSSMODULES](https://img.shields.io/badge/CSS%20Modules-000?logo=cssmodules&logoColor=fff&style=for-the-badge")
   
   > #### 🔧 Tool
   
