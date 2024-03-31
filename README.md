@@ -22,12 +22,14 @@
   
   <br>
   <br>
-
+  <br>
+  
 # 🚀 Activity
 
 - 42Seoul (2022.03.07 ~ ing)
   
 
+<br>
 <br>
 <br>
 
@@ -37,6 +39,7 @@
 - PING-PONG게임 및 채팅 웹 서비스 (2023.10 ~ 2023.12) [Tscenping](https://github.com/tscenping)
 
 
+<br>
 <br>
 <br>
 
