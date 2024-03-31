@@ -15,9 +15,13 @@
 
 # Activity
 
-- ### 42Seoul 2022.03.07 ~
+- ### 42Seoul (2022.03.07 ~ ing)
   
 ---
+<br>
+<br>
+
+# Projects
 
 
 ![Sang yeob's GitHub stats](https://github-readme-stats.vercel.app/api?username=exceed96&show_icons=true&theme=cobalt)
