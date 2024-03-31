@@ -1,5 +1,5 @@
 ---
-# Stack
+# 💻 Stack
 
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![ts](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -13,16 +13,17 @@
 <br>
 <br>
 
-# Activity
+# 🚀 Activity
 
-- ### 42Seoul (2022.03.07 ~ ing)
+- 42Seoul (2022.03.07 ~ ing)
   
 ---
 <br>
 <br>
 
-# Projects
+# 📜 Projects
 
+- 
 
 
 ![Sang yeob's GitHub stats](https://github-readme-stats.vercel.app/api?username=exceed96&show_icons=true&theme=cobalt)
