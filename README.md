@@ -2,7 +2,7 @@
 ### ⌨️ Stack
 
 
-  > ### 💻 Frontend
+  > #### 💻 Frontend
   ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
   ![ts](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
   ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -12,7 +12,7 @@
   ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
   <img src="https://img.shields.io/badge/CSS%20Modules-000?logo=cssmodules&logoColor=fff&style=flat-square" />
   
-  > ### 🔧 Tool
+  > #### 🔧 Tool
   
   ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
