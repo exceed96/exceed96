@@ -11,6 +11,13 @@
 <img src="https://img.shields.io/badge/CSS%20Modules-000?logo=cssmodules&logoColor=fff&style=flat-square" />
 ---
 
+# Activity
+
+- ### 42Seoul 2022.03.07 ~
+  
+---
+
+
 ![Sang yeob's GitHub stats](https://github-readme-stats.vercel.app/api?username=exceed96&show_icons=true&theme=cobalt)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=exceed_96)](https://solved.ac/exceed_96/)
