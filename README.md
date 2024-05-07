@@ -33,8 +33,8 @@
 
 - 특정 URL 메모저장 웹 확장프로그램 서비스 (2023.01 ~ 2023.06) [InsteadMemory](https://github.com/Instead-Memory/Instead-Memory)
 - PING-PONG게임 및 채팅 웹 서비스 (2023.10 ~ 2023.12) [Tscenping](https://github.com/tscenping)
-- PING-PONG게임 및 채팅 웹 서비스 리팩토링 V2 (2024.03 ~ ) [Tscenping](https://github.com/tscenping)
-- 전국 부실아파트 조회 서비스 (2024.04 ~ ) [Tscenping](https://github.com/tscenping)
+- PING-PONG게임 및 채팅 웹 서비스 리팩토링 V2 (2024.03 ~ ) [TscenpingV2](https://github.com/tscenping)
+- 전국 부실아파트 조회 서비스 (2024.04 ~ ) [전국 부실아파트 조회](https://github.com/poorapartment)
 
 <br>
 
