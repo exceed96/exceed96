@@ -14,6 +14,7 @@
   ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
   ![SCSS](https://img.shields.io/badge/SCSS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
   ![CSSMODULES](https://img.shields.io/badge/CSS%20Modules-000?logo=cssmodules&logoColor=fff&style=for-the-badge")
+  <img src="https://img.shields.io/badge/CSS Modules-000000?style=flat-square&logo=CSS Modules&logoColor=white"/>
   <img src="https://img.shields.io/badge/axios-5A29E4?style=flat-square&logo=Axios&logoColor=white"/>
   <img src="https://img.shields.io/badge/socket.io-010101?style=flat-square&logo=Socket.io&logoColor=white"/>
   
