@@ -13,6 +13,7 @@
   ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
   ![SCSS](https://img.shields.io/badge/SCSS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
   <img src="https://img.shields.io/badge/CSS Modules-000000?style=flat-square&logo=CSS Modules&logoColor=white"/>
   <img src="https://img.shields.io/badge/axios-5A29E4?style=flat-square&logo=Axios&logoColor=white"/>
   <img src="https://img.shields.io/badge/socket.io-010101?style=flat-square&logo=Socket.io&logoColor=white"/>
