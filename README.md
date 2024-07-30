@@ -39,6 +39,7 @@
 - 실시간 PING-PONG게임 및 채팅 웹 서비스 (2023.10 ~ 2023.12) [Tscenping](https://github.com/tscenping)
 - 실시간 PING-PONG게임 및 채팅 웹 서비스 리팩토링 V2 (2024.03 ~ 2024.05) [TscenpingV2](https://github.com/tscenping/tscenping)
 - 전국 부실아파트 조회 서비스 (2024.04 ~ ) [전국 부실아파트 조회](https://github.com/substandardApartment)
+- KT Wiz 기존 홈페이지 개선하기 (2024.06 ~ 2024.07) [KT Wiz "AI분석"페이지 만들기](https://github.com/substandardApartment)
 
 <br>
 
